@@ -6,7 +6,6 @@
                 "C:\\Users\\zakur\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
                 "C:\\Users\\zakur\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\**",
                 "C:\\Users\\zakur\\Documents\\Arduino\\libraries\\**"
-
             ],
             "forcedInclude": [
                 "C:\\Users\\zakur\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\cores\\arduino\\Arduino.h"
